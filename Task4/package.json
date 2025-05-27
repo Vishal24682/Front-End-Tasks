@@ -1,0 +1,22 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "description": "Add Items in List",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "list"
+  ],
+  "author": "Vishal Bhaskar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
