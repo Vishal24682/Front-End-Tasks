@@ -1,0 +1,24 @@
+.span{
+    margin:10px;
+    font-size: larger;
+}
+.delete{
+    margin:10px;
+}
+.checkbox{
+    margin:10px;
+    size: 10px;
+}
+.delete:hover{
+    cursor: pointer;
+}
+.checkbox:hover{
+    cursor: pointer;
+}
+.inputbox{
+    padding: 10px;
+    font-size: large;
+}
+.add{
+    padding: 12px;
+}
